@@ -36,6 +36,3 @@ $ ./main
 2020
 > STOP
 ```
-
-# License
-Release Under [MIT License](https://github.com/sreekesari-vangeepuram/random-projects/blob/main/LICENSE)
