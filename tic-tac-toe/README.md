@@ -1,7 +1,8 @@
 # Tic Tac Toe
-![](https://github.com/sreekesari-vangeepuram/random-projects/tree/main/tic-tac-toe/public/tic-tac-toe.png)<br>
 
-This project is the [interactive tutorial](https://reactjs.org/tutorial/tutorial.html) to get started with React.
+![](./public/tic-tac-toe.png)
+<br>
+This project is the [interactive tutorial](https://reactjs.org/tutorial/tutorial.html) to get started with [React](https://reactjs.org).
 
 ## Available Scripts
 
@@ -69,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Image Credits
+
+Tic tac toe icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/tic-tac-toe)
